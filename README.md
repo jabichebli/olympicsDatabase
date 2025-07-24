@@ -42,4 +42,4 @@ Created by **Jason Abi Chebli**
 [MongoDB Driver-Trip Integration](https://github.com/jabichebli/olympicsDatabase/blob/main/T6-pat-mongo.mongodb.js)
 
 ## Feedback
-If you have any feedback, suggestions, or questions about the database developed, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact.html). Your input is valuable and will help improve my understanding of database design and development.
+If you have any feedback, suggestions, or questions about the database developed, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact/). Your input is valuable and will help improve my understanding of database design and development.
